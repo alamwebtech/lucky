@@ -9,3 +9,7 @@ for num in range(1,21):
 
 for emoji in range(1,10):
 	print("\U0001f600" * emoji)
+
+for x in range(3):
+	for emoji in range(1,10):
+		print("\U0001f600" * emoji)
